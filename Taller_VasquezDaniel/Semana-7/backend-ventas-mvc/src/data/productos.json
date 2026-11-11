@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "nombre": "Laptop Lenovo",
+    "precio": 800,
+    "stock": 10
+  },
+  {
+    "id": 2,
+    "nombre": "Monitor Samsung",
+    "precio": 220,
+    "stock": 15
+  },
+  {
+    "id": 3,
+    "nombre": "Teclado Dell",
+    "precio": 45,
+    "stock": 15
+  },
+  {
+    "id": 4,
+    "nombre": "Monitor Samsung",
+    "precio": 180,
+    "stock": 12
+  },
+  {
+    "id": 5,
+    "nombre": "Monitor HP",
+    "precio": 110,
+    "stock": 9
+  },
+  {
+    "id": 6,
+    "nombre": "Monitor Samsung",
+    "precio": 180,
+    "stock": 12
+  },
+  {
+    "id": 8,
+    "nombre": "Laptop Asus VivoBook",
+    "precio": 700,
+    "stock": 10
+  },
+  {
+    "id": 9,
+    "nombre": "iPhone 15 Pro Max",
+    "precio": 700,
+    "stock": 20
+  },
+  {
+    "id": 10,
+    "nombre": "iPhone 18 Pro Max",
+    "precio": 1500,
+    "stock": 5
+  },
+  {
+    "id": 11,
+    "nombre": "MacBook Air",
+    "precio": 1200,
+    "stock": 5
+  }
+]
